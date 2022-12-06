@@ -1,6 +1,6 @@
-package co.edu.unicauca.kafkaproductorpar.config;
+package pwp.software.kafkaproductorpar.config;
 
-import co.edu.unicauca.kafkaproductorpar.models.Estructura;
+import pwp.software.kafkaproductorpar.models.Estructura;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.context.annotation.Bean;

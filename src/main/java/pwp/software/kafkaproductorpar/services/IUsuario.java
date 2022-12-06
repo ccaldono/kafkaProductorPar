@@ -1,6 +1,6 @@
-package co.edu.unicauca.kafkaproductorpar.services;
+package pwp.software.kafkaproductorpar.services;
 
-import co.edu.unicauca.kafkaproductorpar.models.Externo;
+import pwp.software.kafkaproductorpar.models.Externo;
 
 import java.util.List;
 

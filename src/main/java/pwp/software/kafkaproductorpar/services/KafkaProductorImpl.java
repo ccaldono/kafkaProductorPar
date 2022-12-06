@@ -1,6 +1,6 @@
-package co.edu.unicauca.kafkaproductorpar.services;
+package pwp.software.kafkaproductorpar.services;
 
-import co.edu.unicauca.kafkaproductorpar.models.Estructura;
+import pwp.software.kafkaproductorpar.models.Estructura;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.kafka.support.SendResult;

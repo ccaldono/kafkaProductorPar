@@ -1,10 +1,10 @@
-package co.edu.unicauca.kafkaproductorpar.controllers;
+package pwp.software.kafkaproductorpar.controllers;
 
-import co.edu.unicauca.kafkaproductorpar.models.Estructura;
-import co.edu.unicauca.kafkaproductorpar.models.Servicio;
-import co.edu.unicauca.kafkaproductorpar.services.IKafkaProductor;
-import co.edu.unicauca.kafkaproductorpar.services.IServicioService;
-import co.edu.unicauca.kafkaproductorpar.services.IUsuario;
+import pwp.software.kafkaproductorpar.models.Estructura;
+import pwp.software.kafkaproductorpar.models.Servicio;
+import pwp.software.kafkaproductorpar.services.IKafkaProductor;
+import pwp.software.kafkaproductorpar.services.IServicioService;
+import pwp.software.kafkaproductorpar.services.IUsuario;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package co.edu.unicauca.kafkaproductorpar;
+package pwp.software.kafkaproductorpar;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

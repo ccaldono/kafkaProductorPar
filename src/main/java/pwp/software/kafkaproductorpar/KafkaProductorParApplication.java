@@ -1,4 +1,4 @@
-package co.edu.unicauca.kafkaproductorpar;
+package pwp.software.kafkaproductorpar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

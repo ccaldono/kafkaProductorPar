@@ -1,4 +1,4 @@
-package co.edu.unicauca.kafkaproductorpar.models;
+package pwp.software.kafkaproductorpar.models;
 
 
 
