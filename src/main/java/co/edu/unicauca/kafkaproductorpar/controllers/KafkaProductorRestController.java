@@ -45,10 +45,8 @@ public class KafkaProductorRestController {
             response.put("mensaje", "No se encuentra registrado" );
             return new ResponseEntity<Map<String, Object>>(response, HttpStatus.FOUND);
         }
-
-        response.put("mensaje","Se publico en el topic "+servicioTemp.getSer_topic());
-        response.put("estrutura",estructura);
+        response.put("mensaje","Publicación ha sido realizada con exito en topic: "+servicioTemp.getSer_topic());
+        response.put("estructura",estructura);
         return new ResponseEntity<Map<String, Object>>(response, HttpStatus.OK);
-
     }
 }
